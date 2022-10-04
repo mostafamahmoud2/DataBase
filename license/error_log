@@ -1,0 +1,75 @@
+[22-May-2021 09:19:05 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/servusproviderco/public_html/licensev2/editlicense.php on line 26
+[22-May-2021 17:41:52 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/servusproviderco/public_html/licensev2/editlicense.php on line 22
+[22-May-2021 18:18:38 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/editlicense.php on line 39
+[22-May-2021 18:38:27 UTC] PHP Warning:  Use of undefined constant HIDDENKEY - assumed 'HIDDENKEY' (this will throw an Error in a future version of PHP) in /home/servusproviderco/public_html/licensev2/editmultiuser.php on line 16
+[22-May-2021 18:39:02 UTC] PHP Warning:  Use of undefined constant HIDDENKEY - assumed 'HIDDENKEY' (this will throw an Error in a future version of PHP) in /home/servusproviderco/public_html/licensev2/editmultiuser.php on line 16
+[22-May-2021 18:40:23 UTC] PHP Warning:  Use of undefined constant HIDDENKEY - assumed 'HIDDENKEY' (this will throw an Error in a future version of PHP) in /home/servusproviderco/public_html/licensev2/editmultiuser.php on line 16
+[22-May-2021 18:41:02 UTC] PHP Warning:  Use of undefined constant HIDDENKEY - assumed 'HIDDENKEY' (this will throw an Error in a future version of PHP) in /home/servusproviderco/public_html/licensev2/editmultiuser.php on line 17
+[22-May-2021 18:55:04 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 17
+[22-May-2021 18:55:04 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 19
+[22-May-2021 18:55:04 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 17
+[22-May-2021 18:55:04 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 19
+[22-May-2021 18:55:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 17
+[22-May-2021 18:55:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 19
+[22-May-2021 18:55:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 17
+[22-May-2021 18:55:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 19
+[22-May-2021 18:55:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 17
+[22-May-2021 18:55:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 19
+[22-May-2021 18:55:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 17
+[22-May-2021 18:55:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 19
+[22-May-2021 18:55:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 17
+[22-May-2021 18:55:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 19
+[22-May-2021 18:55:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 17
+[22-May-2021 18:55:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 19
+[22-May-2021 18:55:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 17
+[22-May-2021 18:55:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 19
+[22-May-2021 18:55:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 17
+[22-May-2021 18:55:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 19
+[22-May-2021 18:55:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 17
+[22-May-2021 18:55:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 19
+[22-May-2021 18:55:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 17
+[22-May-2021 18:55:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 19
+[22-May-2021 18:55:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 17
+[22-May-2021 18:55:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 19
+[22-May-2021 18:55:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 17
+[22-May-2021 18:55:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 19
+[22-May-2021 18:55:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 17
+[22-May-2021 18:55:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 19
+[22-May-2021 18:55:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 17
+[22-May-2021 18:55:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 19
+[22-May-2021 18:55:07 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 17
+[22-May-2021 18:55:07 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 19
+[22-May-2021 18:55:07 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 17
+[22-May-2021 18:55:07 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 19
+[22-May-2021 18:55:07 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 17
+[22-May-2021 18:55:07 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getproduct.php on line 19
+[22-May-2021 18:55:49 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 17
+[22-May-2021 18:55:49 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 19
+[22-May-2021 18:55:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 17
+[22-May-2021 18:55:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 19
+[22-May-2021 18:55:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 17
+[22-May-2021 18:55:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 19
+[22-May-2021 18:55:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 17
+[22-May-2021 18:55:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 19
+[22-May-2021 18:55:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 17
+[22-May-2021 18:55:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 19
+[22-May-2021 18:55:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 17
+[22-May-2021 18:55:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 19
+[22-May-2021 18:55:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 17
+[22-May-2021 18:55:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 19
+[22-May-2021 18:55:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 17
+[22-May-2021 18:55:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 19
+[22-May-2021 18:55:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 17
+[22-May-2021 18:55:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 19
+[22-May-2021 18:55:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 17
+[22-May-2021 18:55:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 19
+[22-May-2021 18:55:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 17
+[22-May-2021 18:55:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 19
+[22-May-2021 18:55:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 17
+[22-May-2021 18:55:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 19
+[22-May-2021 18:55:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 17
+[22-May-2021 18:55:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 19
+[22-May-2021 18:55:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 17
+[22-May-2021 18:55:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 19
+[22-May-2021 18:55:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 17
+[22-May-2021 18:55:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/servusproviderco/public_html/licensev2/getuser.php on line 19
